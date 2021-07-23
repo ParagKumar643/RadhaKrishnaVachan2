@@ -1,42 +1,33 @@
 {
   "project_info": {
-    "project_number": "750478067411",
-    "firebase_url": "https://radha-krishna-vachan-30720-default-rtdb.firebaseio.com",
-    "project_id": "radha-krishna-vachan-30720",
-    "storage_bucket": "radha-krishna-vachan-30720.appspot.com"
+    "project_number": "769652128419",
+    "project_id": "radha-krishna-vachan-c491f",
+    "storage_bucket": "radha-krishna-vachan-c491f.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:750478067411:android:d68f3f544ea52cd5573626",
+        "mobilesdk_app_id": "1:769652128419:android:5da975b7eb2b40bb719d16",
         "android_client_info": {
-          "package_name": "com.bhram.radhakrishnavachanpk"
+          "package_name": "com.bhram.radhakrishnavachanpka"
         }
       },
       "oauth_client": [
         {
-          "client_id": "750478067411-02cl7d1kdram06877senf368p85fv9o0.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.bhram.radhakrishnavachanpk",
-            "certificate_hash": "5382881aaf0f5ff4fe881aec01220d89fc44d6f4"
-          }
-        },
-        {
-          "client_id": "750478067411-vlepiq2gkgnnrhtstqtbcmlm8q8bnl0s.apps.googleusercontent.com",
+          "client_id": "769652128419-lfq3a76trmhp145ejqej9d155u8pr5kk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDi7IW535xTawFMTbfJqy9LmQuA9X-GCbU"
+          "current_key": "AIzaSyAT6DQMD9LTwbCYccO98nQHP3Uy-l5pZYY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "750478067411-vlepiq2gkgnnrhtstqtbcmlm8q8bnl0s.apps.googleusercontent.com",
+              "client_id": "769652128419-lfq3a76trmhp145ejqej9d155u8pr5kk.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -45,5 +36,4 @@
     }
   ],
   "configuration_version": "1"
-    
 }

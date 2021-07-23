@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient2">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"
+                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="बुराई तो तुम्हें हजारों की भीड़ में भी तुम्हे ढूंढ लेगी
+
+ठीक उसी प्रकार
+
+जैसे गायों की झुंड में बछिया अपने मां को ढूंढ लेती है। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"
+                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="किसी जीव को कष्ट देकर
+
+तुम मुझे खुश कैसे देख सकते हो। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="वह दिन मत दिखाना कान्हा
+
+कि हमें खुद पर गुरुर हो जाए
+
+रखना अपने दिल में इस तरह
+
+कि जीवन सुफल हो जाए। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="जो हुआ अच्छा हुआ , जो होगा अच्छा होगा
+
+स्वयं को मुझ पर छोड़ दो
+
+अपने कर्म पर ध्यान दो
+
+कर्म ऐसा जो स्वार्थ , रहित पाप रहित हो। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="दुष्ट लोग अगर समझाने मात्र से समझ जाते
+
+तो यकीन मानो महाभारत कभी ना होता। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="जो अपने मन पर नियंत्रण नहीं रखता
+
+वह स्वयं का शनै शनै शत्रु बनता जाता है। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="ज्यादा हंसने और बोलने वाला व्यक्ति
+
+अगर चुप हो जाए
+
+तो मान लेना वह भीतरसे टूट चुका है। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <com.google.android.ads.nativetemplates.TemplateView
+                android:id="@+id/my_template"
+                app:gnt_template_type="@layout/gnt_medium_template_view"
+                android:layout_width="match_parent"
+                android:layout_height="300dp" />
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="जिस व्यक्ति के पास संतुष्टि नहीं है
+
+उसे कितना भी मिल जाए वह असंतुष्ट ही रहेगा। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="जिंदगी में सदैव अवसरों का आनंद
+
+लेना चाहिए
+
+लेकिन किसी के भरोसे को तोड़कर नहीं। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="प्रेम में कोई वियोग नहीं होता
+
+प्रेम ही अंतिम योग है
+
+अंतिम मिलन है। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="कभी भी स्वयं पर घमंड मत करना
+
+पत्थर भी भारी होकर
+
+पानी में अपना वजूद खो देता है। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="अगर ईश्वर तुम्हें ज्यादा प्रतिक्षा करवा रहे हैं
+
+हो सकता है , जितना तुमने मांगा
+
+उससे ज्यादा देने वाला हो । ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="जीवन ना तो भविष्य में है और ना ही अतीत में
+
+जीवन तो बस इस पल में है , केवल इस पल में। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="मैं विधाता होकर भी
+
+विधि के विधान को नहीं टाल सका
+
+मेरी चाह राधा थी और चाहती मुझको मीरा थी
+
+पर मैं हो रुक्मणी का गया। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <com.google.android.ads.nativetemplates.TemplateView
+                android:id="@+id/template1"
+                app:gnt_template_type="@layout/gnt_medium_template_view"
+                android:layout_width="match_parent"
+                android:layout_height="300dp" />
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="क्रोध की अवस्था में भ्रम जन्म लेता है
+
+भ्रम बुद्धि को नष्ट कर देती है
+
+बुद्धि के नष्ट होते ही व्यक्ति का पतन हो जाता है। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="खाली हाथ आए खाली हाथ वापस चले जाओगे
+
+आज तुम्हारा है कल किसी और का था
+
+परसों किसी और का होगा
+
+तुम जिसे अपना समझ कर मगन हो रहे हो
+
+बस यही प्रसन्नता तुम्हारे दुखों का कारण है। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="आत्मा को शस्त्र नहीं काट सकता
+
+अग्नि नहीं जला सकती
+
+जल नहीं बुझा सकता
+
+वायु नहीं सुखा सकती। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="मैं सभी प्राणियों को समान रूप से देखता हूं
+
+ना कोई मुझे कम प्रिय है , ना अधिक
+
+लेकिन जो मेरी प्रेम पूर्वक आराधना करते हैं
+
+वह मेरे भीतर रहते हैं और मैं उनके जीवन में आता हूं। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="वह जो सभी इच्छाएं त्याग देता है
+
+‘मैं’ और ‘मेरा’ की लालसा तथा
+
+‘भावना’ से मुक्त हो जाता है
+
+उसे शांति प्राप्त होती है। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="मैं धरती की मधुर सुगंध हूं
+
+मैं अग्नि की उष्मा हूं
+
+सभी जीवित प्राणियों का
+
+जीवन और सन्यासियों का
+
+आत्म संयम भी मैं ही हूं। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="फल की अभिलाषा छोड़कर
+
+कर्म करने वाला पुरुष ही
+
+अपने जीवन को सफल बनाता है। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <com.google.android.ads.nativetemplates.TemplateView
+                android:id="@+id/my_template2"
+                app:gnt_template_type="@layout/gnt_medium_template_view"
+                android:layout_width="match_parent"
+                android:layout_height="300dp" />
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="इस भौतिक जगत में , जो व्यक्ति न तो
+
+सुख की प्राप्ति से हर्षित होता है
+
+और ना अशुभ के प्राप्त होने पर
+
+उससे घृणा करता है
+
+वह पूर्ण ज्ञान में स्थिर रहता है। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="जो अपने हिस्से का काम किए
+
+बिना ही भोजन पाते हैं वह चोर हैं। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="जिस व्यक्ति को आपकी कदर नहीं
+
+उसके साथ खड़े रहने से अच्छा आप अकेले रहें। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="हद से ज्यादा सीधा-साधा होना भी ठीक नहीं
+
+क्योंकि जंगल में सबसे पहले
+
+सीधे पेड़ों को काटा जाता है। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="दिव्यता केवल शक्तिशाली होने में नहीं
+
+बल्कि वास्तविक दिव्यता
+
+दूसरों में शक्ति जागृत करने में है। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="जिंदगी के इस रण में
+
+खुद ही कृष्ण , खुद ही अर्जुन बनना पड़ता है
+
+रोज अपना ही सारथी बनकर
+
+जीवन के महाभारत से लड़ना पड़ता है। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="अच्छी किस्मत के लोग , थोड़ा भी बुरा होने पर
+
+भगवान को कोसते हैं , और बुरी किस्मत के लोग
+
+थोड़ा भी अच्छा होने पर
+
+भगवान का स्मरण और धन्यवाद करते हैं। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <com.google.android.ads.nativetemplates.TemplateView
+                android:id="@+id/my_template3"
+                app:gnt_template_type="@layout/gnt_medium_template_view"
+                android:layout_width="match_parent"
+                android:layout_height="300dp" />
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="जन्म लेने वाले के लिए मृत्यु उतनी ही निश्चित है
+
+जितना कि मृत होने वाले के लिए जन्म लेना
+
+इसलिए जो अपरिहार्य है उस पर शोक मत करो। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="मुंह से माफ करने मे किसी को वक्त नहीं लगता
+
+पर दिल से माफ करने में सारी उम्र बीत जाती है। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="जब आप प्रभु के साथ जुड़ जाओगे
+
+तो आपकी परीक्षा आरंभ हो जाएगी
+
+कुछ लोग इसे दुख समझते हैं
+
+तो कुछ लोग प्रभु की कृपा। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="जो है माखन चोर , जो है मुरली वाला
+
+वही है हम सब के दुख दूर करने वाला। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="संसार के संयोग में जो सुख प्रतीत होता है
+
+उसमें दुख भी मिला रहता है
+
+परंतु संसार के वियोग से
+
+सुख-दुख से अखंड आनंद प्राप्त होता है। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="संबंध उसी आत्मा से जुड़ता है
+
+जिनका हमसे पिछले जन्मों का
+
+कोई रिश्ता होता है
+
+वरना दुनिया के इस भीड़ में
+
+कौन किसको जानता है। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <com.google.android.ads.nativetemplates.TemplateView
+                android:id="@+id/my_template4"
+                app:gnt_template_type="@layout/gnt_medium_template_view"
+                android:layout_width="match_parent"
+                android:layout_height="300dp" />
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="राधा कृष्ण का मिलना तो बस एक बहाना था
+
+दुनिया को प्यार का सही मतलब समझाना था। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="प्रेम और आस्था दोनों पर किसी का जोर नहीं
+
+यह मन जहां लग जाए वही ईश्वर नजर आता है। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="तेरे साथ को तरसे , तेरी बात को तरसे
+
+तेरे होकर भी , एक मिलन को तरसे। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="प्रहलाद जैसा विश्वास हो , भीलनी जैसी आस हो
+
+द्रोपदी जैसी पुकार हो , मीरा जैसा इंतजार हो
+
+तो कृष्ण को आना ही पड़ता है। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="जीवन में आधे दुख इस कारण जन्म लेते हैं
+
+क्योंकि उनसे आशाएं बड़ी होती है
+
+इन आशाओं का त्याग करके देखो
+
+जीवन में सुख ही सुख है। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="20dp"
+                app:cardBackgroundColor="@color/white"                android:padding="20dp"
+                app:cardCornerRadius="25dp"
+                app:contentPadding="10dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="128dp"
+                    android:layout_margin="5dp"
+                    android:layout_marginRight="5dp"
+                    android:gravity="center_vertical"
+                    android:text="लोग कहते हैं अपनों के आगे झुक जाना चाहिए
+
+किंतु सच बात तो यह है
+
+जो अपने होते हैं वह कभी झुकने नहीं देते। ।"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+
+            </androidx.cardview.widget.CardView>
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

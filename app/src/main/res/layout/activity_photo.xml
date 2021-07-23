@@ -26,7 +26,7 @@
         android:layout_marginLeft="28dp"
         android:layout_marginBottom="8dp"
         app:adSize="LARGE_BANNER"
-        app:adUnitId="ca-app-pub-2979694091012217/8333571730"
+        app:adUnitId="ca-app-pub-2979694091012217/2944448020"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"></com.google.android.gms.ads.AdView>
 

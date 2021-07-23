@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.bhram.radhakrishnavachanpk">
+    package="com.bhram.radhakrishnavachanpka">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.SET_WALLPAPER" />
 
     <application
         android:allowBackup="true"
@@ -14,15 +17,17 @@
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true"
         tools:targetApi="m">
-        <activity android:name="com.bhram.radhakrishnavachanpk.PhotoActivity"></activity>
+
+        <activity android:name=".shlokas.shlokas" />
+        <activity android:name=".PhotoActivity" />
         <activity
-            android:name="com.bhram.radhakrishnavachanpk.UserId"
+            android:name=".Home"
             android:theme="@style/FullScreen" />
         <activity
-            android:name="com.bhram.radhakrishnavachanpk.MainActivity"
+            android:name=".MainActivity"
             android:theme="@style/FullScreen" />
         <activity
-            android:name="com.bhram.radhakrishnavachanpk.SplashScreen"
+            android:name=".SplashScreen"
             android:theme="@style/FullScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -31,9 +36,19 @@
             </intent-filter>
         </activity>
 
+        <activity
+            android:name=".wallpaper.WallpaperMain"
+            android:theme="@style/FullScreen" />
+        <activity
+            android:name=".wallpaper.SecongPage"
+            android:theme="@style/FullScreen" />
+        <activity
+            android:name=".wallpaper.WallpaerPagerActivity"
+            android:theme="@style/FullScreen" />
+
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-2979694091012217~2461819022"/>
+            android:value="ca-app-pub-2979694091012217~8196774706" />
     </application>
 
 </manifest>
